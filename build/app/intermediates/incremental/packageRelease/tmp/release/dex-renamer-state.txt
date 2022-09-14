@@ -1,0 +1,4 @@
+#Fri Jun 17 14:03:41 KST 2022
+base.0=C\:\\Users\\USER\\StudioProjects\\google_map_api\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
